@@ -40,7 +40,33 @@
 ## 💻 Tech Stack:
 
 <div align="center">
-  <img alt="Python" title="Python" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin: 0 6px;"/><img alt="C++" title="C++" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="margin: 0 6px;"/><img alt="C#" title="C#" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="margin: 0 6px;"/><img alt="Git" title="Git" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="margin: 0 6px;"/><img alt="Arduino" title="Arduino" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" style="margin: 0 6px;"/><img alt="Linux" title="Linux" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="margin: 0 6px;"/><img alt="Kali Linux" title="Kali Linux" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" style="margin: 0 6px;"/>
+  <span>
+    <img alt="Python" title="Python" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <img alt="C++" title="C++" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <img alt="C#" title="C#" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <img alt="Git" title="Git" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <img alt="Arduino" title="Arduino" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <img alt="Linux" title="Linux" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <img alt="Kali Linux" title="Kali Linux" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg"/>
+  </span>
 </div>
 
 <br>
