@@ -4,9 +4,9 @@
 
 ---
 
-👨🏽‍💻 | I'm a Mechatronics Engineering student ([IFCE](https://portal.ifce.edu.br/)).
+👨🏽‍💻 | I'm a <b>Mechatronics Engineering</b> student ([IFCE](https://portal.ifce.edu.br/)).
 <br>
-🤖 | Passionate about Back-end development, Embedded Systems and Machine Learning.
+🤖 | Passionate about Back-end development, Embedded Systems, Robotics and Machine Learning.
 <br>
 🙋🏽‍♂️ | Looking for opportunities to develop my skills, whether through an internship or employment.
 
