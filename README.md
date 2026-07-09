@@ -33,13 +33,7 @@
             title="discord_profile"
             src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
     </a>
-    <a href="">
-        <img
-            alt="pinterest"
-            title="pinterest_profile"
-            src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white">
-    </a>
-</p> 
+</p>
 
 <br>
 
@@ -84,5 +78,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
