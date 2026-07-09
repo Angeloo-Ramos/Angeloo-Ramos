@@ -4,7 +4,7 @@
 
 ---
 
-👨🏽‍💻 | My name is <b>Angelo Ramos</b> and I'm a Mechatronics Engineering student (IFCE).
+👨🏽‍💻 | I'm a Mechatronics Engineering student ([IFCE](https://portal.ifce.edu.br/)).
 <br>
 🤖 | Passionate about Back-end development, Embedded Systems and Machine Learning.
 <br>
